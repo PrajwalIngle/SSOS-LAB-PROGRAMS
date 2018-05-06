@@ -6,6 +6,7 @@ How to execute?
 
 If you are using lex and yacc : 
     run the following commands on terminal
+      
       for lex :
       lex filename.l
       gcc lex.yy.c
@@ -17,6 +18,7 @@ If you are using lex and yacc :
     
 If you are using flex and bison : 
     run the following commands on terminal
+      
       for lex :
       flex filename.l
       gcc lex.yy.c
