@@ -5,7 +5,7 @@ vtu lab programs for system software and operating systems lab (2015 cbcs scheme
 How to execute?
 
 If you are using lex and yacc : 
-    run the following commands on terminal
+    run the following commands on terminal/command prompt
       
       for lex :
       lex filename.l
@@ -17,7 +17,7 @@ If you are using lex and yacc :
     
     
 If you are using flex and bison : 
-    run the following commands on terminal
+    run the following commands on terminal/command prompt
       
       for lex :
       flex filename.l
